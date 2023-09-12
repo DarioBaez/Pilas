@@ -1,7 +1,6 @@
 import time
 import random
 
-# 
 lista = [random.random() for _ in range(10**7)]
 
 # Inserción al principio de la lista
